@@ -3,6 +3,7 @@ venv/
 env/
 ENV/
 .ipynb_checkpoints/
+data/
 .vscode/
 .idea/
 *.sublime-project
