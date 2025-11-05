@@ -21,3 +21,15 @@ build/
 *.nbconvert.ipynb
 *.out
 *.log
+# === Local config and data files ===
+config.json
+
+# Ignore large or personal data files
+*.csv
+*.zip
+*.parquet
+*.xlsx
+*.pkl
+*.json
+*.h5
+*.feather
