@@ -33,3 +33,5 @@ config.json
 *.json
 *.h5
 *.feather
+# To consider the config.json file on GitHub
+!config.example.json
